@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(228, 205, 150);
+    color: white;
+    font-family: serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    color: rgb(150, 127, 127);
+    background-color: bisque;
+    border-color: white;
+    transition: 0.3s ease-in-out;
+}
+
+button :hover {
+    background-color: rgb(119, 114, 114);   
+}
+
+#halDua {
+    display: none;
+}
+.kata {
+    text-align: justify;
+}
+.ttd {
+    text-align: right;
+}
